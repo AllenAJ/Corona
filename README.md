@@ -4,7 +4,7 @@
 Corona? No problem. 
 Here are fews tools for remote communications listed below:
 
-🎯 Dewo, sister tool of @timelyapp. Reschedules meetings to protect everyone's focus time. Works brilliantly for teams scattered across the globe. 👉https://memory.ai/dewo
+🎯 <b>Dewo</b>, sister tool of @timelyapp. Reschedules meetings to protect everyone's focus time. Works brilliantly for teams scattered across the globe. 👉https://memory.ai/dewo
 
 📃 Airtable: Helps us shape our ideas on the go. 👉https://airtable.com
 

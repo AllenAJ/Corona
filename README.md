@@ -1,5 +1,5 @@
 <strong>[<a href="https://github.com/AllenAJ/Corona/issues/new">Submit tools</a>]</strong>
-
+<a role="link" tabindex="0" rel="noopener" target="_blank" href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fp%2Ftyping-jobs-work-at-home-and-get-paid-create-a-side-job-and-earn-money%2F9pkn632hjrv7&amp;psig=AOvVaw3U5KmxPuqwRXzIfn0Dd1Pj&amp;ust=1583996853446000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCPDCzaHukegCFQAAAAAdAAAAABAP" jsaction="focus:kvVbVb; mousedown:kvVbVb; touchstart:kvVbVb;" aria-label="Visit Microsoft" class="eHAdSb" data-ved="0CAIQjRxqFwoTCPDCzaHukegCFQAAAAAdAAAAABAP" rlhc="1"><img alt="Image result for work" class="n3VNCb" src="https://store-images.s-microsoft.com/image/apps.46003.14259451864568504.ad5e5d07-0fbb-46ed-b9b6-a1b781645691.2ebcfa4e-172c-43d3-bf01-2d9a2a94e897?mode=scale&amp;q=90&amp;h=1080&amp;w=1920" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 817px; height: 459.562px; margin: 0px;"><span class="VSIspc">1920 × 1080</span></a>
 # Corona
 Corona? No problem. 
 Here are fews tools for remote communications listed below:

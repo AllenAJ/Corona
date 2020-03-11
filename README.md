@@ -8,3 +8,11 @@ Coronaviruses are zoonotic, meaning they are transmitted between animals and peo
 Common signs of infection include respiratory symptoms, fever, cough, shortness of breath and breathing difficulties. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death. 
 
 Standard recommendations to prevent infection spread include regular hand washing, covering mouth and nose when coughing and sneezing, thoroughly cooking meat and eggs. Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing.
+
+Here are fews tools for remote communications listed below:
+
+🎯 Dewo, sister tool of @timelyapp. Reschedules meetings to protect everyone's focus time. Works brilliantly for teams scattered across the globe. 👉https://memory.ai/dewo
+📃 Airtable: Helps us shape our ideas on the go. 👉https://airtable.com
+👩‍💻Zoom: For video conferencing. 👉https://zoom.us
+📹 Loom: For easy recording. 👉https://loom.com
+📹 Re:Schedule: Works great for remote meetings. 👉https://www.reschedule.app/

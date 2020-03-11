@@ -1,3 +1,5 @@
+<strong>[<a href="https://github.com/AllenAJ/Corona/issues/new">Submit tools</a>]</strong>
+
 # Corona
 Corona? No problem. 
 Here are fews tools for remote communications listed below:

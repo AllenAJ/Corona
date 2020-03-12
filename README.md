@@ -35,3 +35,10 @@ Here are fews tools for remote communications listed below:
 📓 <b>Notion</b>: A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team. 👉https://www.notion.so/
 
 🧾 <b>Jitsi</b>: Free open-source video conferencing for web & mobile. Make a call, launch on your own servers in minutes, integrate into your app, or develop something new. 👉https://jitsi.org/
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Daniel Stefanovic](http://twitter.com/danistefanovic) has waived all copyright and related or neighboring rights to this work.

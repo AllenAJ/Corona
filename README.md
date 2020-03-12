@@ -31,3 +31,7 @@ Here are fews tools for remote communications listed below:
 📊 <b>Basecamp</b>: Basecamp is a real-time communication tool that helps teams stay on the same page; it's less for traditional project management tasks (e.g., resource planning and long-term scheduling). 👉https://basecamp.com/
 
 💌 <b>ProofHub</b>: ProofHub is a project planning software with every tools your team needs to get work done faster, together. No per user fee. Free trial. No learning curve. 👉https://www.proofhub.com/
+
+📓 <b>Notion</b>: A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team. 👉https://www.notion.so/
+
+🧾 <b>Jitsi</b>: Free open-source video conferencing for web & mobile. Make a call, launch on your own servers in minutes, integrate into your app, or develop something new. 👉https://jitsi.org/

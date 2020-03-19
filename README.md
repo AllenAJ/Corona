@@ -38,7 +38,7 @@ Here are some effective tools for remote communications listed below:
 
 ## Contributors
 
-[Athul Cyriac Ajay](https://github.com/athul) 
+[Athul Cyriac Ajay](https://github.com/athul) <br>
 [Kai Iyer](https://github.com/kaiiyer) 
 
 ## License

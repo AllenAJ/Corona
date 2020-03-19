@@ -36,6 +36,20 @@ Here are some effective tools for remote communications listed below:
 
 🧾 <b>Jitsi</b>: Free open-source video conferencing for web & mobile. Make a call, launch on your own servers in minutes, integrate into your app, or develop something new. 👉https://jitsi.org/
 
+📅 <b>Citrix</b>: Citrix Systems, Inc. is an American multinational software company that provides server, application and desktop virtualization, networking, software as a service, and cloud computing technologies. 👉https://www.citrix.com/products/citrix-virtual-apps-and-desktops/
+
+📖 <b>Mural</b>: Digital workspaces for visual collaboration, inspiration and innovation anytime, anywhere, on any device. 👉https://mural.co/
+
+📹 <b>Status Hero</b>: Status Hero is a lightweight application for tracking daily goals, activity logs from your tools, and status updates from your team, all in one place. 👉https://statushero.com/
+
+📏 <b>BlackBerry workspace</b>: Equip your workforce with the resources they need to be productive on managed or unmanaged devices, with a robust self-contained platform that’s continuously protected from evolving cyber threats. 👉https://www.blackberry.com/us/en/products/blackberry-digital-workplace
+
+🧾 <b>Workplace by Facebook</b>: Workplace is an enterprise connectivity platform developed by Facebook, Inc. and featuring tools like groups, instant messaging and News Feed. 👉https://www.facebook.com/workplace
+
+🎯 <b>Igloo</b>: Igloo enables organizations to move beyond a traditional intranet to a digital workplace; a destination that brings people and resources together to solve critical business challenges — and cultivate a strong corporate culture. 👉https://www.igloosoftware.com/
+
+📋 <b>SAP Jam</b>: SAP Jam Collaboration delivers secure collaboration where you work – inside your applications, on your mobile device, or in SAP Jam Collaboration itself. 👉https://www.sap.com/products/enterprise-social-collaboration.html
+
 ## Contributors
 
 [Athul Cyriac Ajay](https://github.com/athul) <br>
